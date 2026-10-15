@@ -1,0 +1,20 @@
+# Compiled Java bytecode
+*.class
+
+# Common Java build output
+bin/
+out/
+target/
+build/
+.gradle/
+
+# IDE project files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
